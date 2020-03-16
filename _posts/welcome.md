@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/welcome.jpg
 navigation: True
-title: 테스트입니당
+title: temp
 date: 2017-07-27 10:00:00
 tags: [Getting started]
 class: post-template
