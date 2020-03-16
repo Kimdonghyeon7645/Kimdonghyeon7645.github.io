@@ -1,3 +1,13 @@
+현올:
+  username: 현올
+  name: KimDongHyeon
+  url_full: http://jekyller.github.io/jasper2/
+  url: jekyller.github.io/jasper2
+  bio: I am DSM(Daedeok software meister high school) student. I studying python crawling and Django.
+  picture: assets/images/aron-visuals-4zxSWESyZio-unsplash.jpg
+  facebook: False
+  twitter: False
+  cover: False
 ghost:
   username: ghost
   name: Ghost
